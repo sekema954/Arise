@@ -1,0 +1,11 @@
+Model Information:
+* title:	Demon
+* source:	https://sketchfab.com/3d-models/demon-3b1575c85be84f66a3fe1de0a7f44e60
+* author:	sxnneh (https://sketchfab.com/Sxnneh)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Demon" (https://sketchfab.com/3d-models/demon-3b1575c85be84f66a3fe1de0a7f44e60) by sxnneh (https://sketchfab.com/Sxnneh) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
