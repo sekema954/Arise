@@ -1,13 +1,13 @@
 import { useParams } from "react-router-dom";
 import { Player_details } from "../../constants/player_details";
 import { useState } from "react";
-import { lazy, Suspense } from 'react';
+//import { lazy, Suspense } from 'react';
 
 function PlayerDetails() {
   const { id } = useParams<{ id: string }>();
   const player = Player_details.find((p) => p.id.toString() === id);
   const [isFollowing, setIsFollowing] = useState(false);
-  const Character1 = lazy (()=>import("../../animated_components/character1"));
+  //const Character1 = lazy (()=>import("../../animated_components/character1"));
 
   if (!player) {
     return <p className="text-center text-red-500 mt-10 text-xl">Player Not Found</p>;
@@ -15,7 +15,7 @@ function PlayerDetails() {
 
   const {
     username,
-    avatar,
+    //avatar,
     playerClass,
     rank,
     guild,
