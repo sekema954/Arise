@@ -1,0 +1,43 @@
+@import "tailwindcss";
+
+
+button{
+  cursor: url(./assets/images/cursor.png), auto;
+}
+
+.violet-gradient {
+  background: #804dee;
+  background: linear-gradient(-90deg, #804dee 0%, rgba(60, 51, 80, 0) 100%);
+  background: -webkit-linear-gradient(
+    -90deg,
+    #804dee 0%,
+    rgba(60, 51, 80, 0) 100%
+  );
+}
+
+
+.gradient-border {
+  border: 5px solid transparent; /* Transparent border */
+  border-radius: 10px; /* Optional for rounded corners */
+  background: linear-gradient(45deg, #6246EA, #8a87f7); /* Gradient */
+  background-clip: border-box;
+}
+
+
+
+.glowing-text {
+  text-shadow: 0 0 8px #A259FF, 0 0 16px #A259FF, 0 0 24px #A259FF;
+  animation: pulseGlow 2s ease-in-out infinite;
+}
+
+@keyframes pulseGlow {
+  0% {
+    text-shadow: 0 0 8px #A259FF, 0 0 16px #A259FF;
+  }
+  50% {
+    text-shadow: 0 0 16px #A259FF, 0 0 32px #A259FF;
+  }
+  100% {
+    text-shadow: 0 0 8px #A259FF, 0 0 16px #A259FF;
+  }
+}

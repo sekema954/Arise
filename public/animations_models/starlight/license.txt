@@ -1,0 +1,11 @@
+Model Information:
+* title:	Starlight Idle Pose
+* source:	https://sketchfab.com/3d-models/starlight-idle-pose-be897ebc468842079c5e07aa57b5c9f4
+* author:	Monhoo (https://sketchfab.com/Monhoo)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Starlight Idle Pose" (https://sketchfab.com/3d-models/starlight-idle-pose-be897ebc468842079c5e07aa57b5c9f4) by Monhoo (https://sketchfab.com/Monhoo) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

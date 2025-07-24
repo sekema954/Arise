@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bow Trigger - Game Character
+* source:	https://sketchfab.com/3d-models/bow-trigger-game-character-3df5553dfa5848fb9b1005d15b757d5d
+* author:	zeintendy (https://sketchfab.com/zeintendy)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bow Trigger - Game Character" (https://sketchfab.com/3d-models/bow-trigger-game-character-3df5553dfa5848fb9b1005d15b757d5d) by zeintendy (https://sketchfab.com/zeintendy) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
